@@ -14,13 +14,9 @@ Transform during test: Resize(256) → CenterCrop(224)
 
 
 📊 Evaluation on Training Set:
-  - Accuracy : 0.9346
-  - Precision: 0.9426
   - Recall   : 0.9821
   - F1-Score : 0.9620
 
 📊 Evaluation on Validation Set:
-  - Accuracy : 0.9455
-  - Precision: 0.9651
   - Recall   : 0.9679
   - F1-Score : 0.9665
