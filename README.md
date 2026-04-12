@@ -1,4 +1,4 @@
-👤 Gender Classification Under Challenging Conditions – COMSYS-2025 Hackathon 
+**👤 Gender Classification Under Challenging Conditions – COMSYS-2025 Hackathon** 
 
 <p align="center">
   <img src="Diagram_Gender_Classification_Model.png" width="600" title="Gender_Classification_Model_Architecture">
