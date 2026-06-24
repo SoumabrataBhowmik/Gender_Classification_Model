@@ -22,8 +22,6 @@ Transform during test: Resize(256) → CenterCrop(224)
   - F1-Score : 0.9665
 
 
-## Gender Classification Model (Task A)
-
 This section details the architecture, preprocessing pipeline, and training configuration for the binary Gender Classification model (Male/Female). 
 
 ### System Architecture
